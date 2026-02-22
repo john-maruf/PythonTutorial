@@ -8,3 +8,5 @@ fruits.remove("apple")
 
 for fruit in fruits:
     print(fruit)
+    
+
